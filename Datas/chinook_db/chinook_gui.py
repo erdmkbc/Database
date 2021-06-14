@@ -8,7 +8,7 @@ Created on Fri Apr 23 03:11:47 2021
 import sqlite3
 
 connection = sqlite3.connect("chinook.db")
-cursor = connection.execute("SELECT FirstName FROM customers WHERE city = 'Berlin'")     
+   
 print("Your information")
 for row in cursor:
     print(row[0])

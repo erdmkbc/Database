@@ -1,6 +1,6 @@
 # Database
 
-*The applications goals are two data that are SQLite(data's folder type .db) and .json forms simple application console applications.*
+*The applications goals are two data that are SQLite(data's folder type .db) and .json forms simple console applications.*
 *The algoritms wrote with OO-P style.*
 ## chinook data content 
 
